@@ -23,3 +23,6 @@ This module contains the convolutional neural network implementation.
 FaceXR.ipynb
 
 This notebook is the main code that loads the data, network and trains the model. Stochastic Gradient Descent is used as the optimizer and CrossEntropyLoss is used as loss function.
+
+-----------------------------------------------------------------------------------------
+This project is done by Ravi Chandra Duvvuri, Datla Rakesh Varma, Pantham Mahija and Tadi Bhanuvadan under the supervision of Smt. SSSN Usha Devi madam, Assistant Professor, Department of Computer Science and Engineering, University College of Engineering, JNTUK Kakinada.
